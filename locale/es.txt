@@ -26,15 +26,15 @@ PopupWebFrameBehaviour_AF01F32B_EB7C_3CA6_41DE_0A254AFA57C6.url = https://grupoe
 PopupWebFrameBehaviour_BD0D53C9_EB5C_43E2_419A_A52EC86734B0.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAA?exhibidor=true
 PopupWebFrameBehaviour_B5A6ED89_EB4C_4463_41E8_CBDB27D86CBE.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAA?exhibidor=true
 PopupWebFrameBehaviour_DF67A804_FFBC_917B_41E4_7071302E0A20.url = https://grupoeurosa.com/ar/producto/sipnb?exhibidor=true
-PopupWebFrameBehaviour_9DAA4757_EACB_C4EF_41C5_70711CB9D352.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
 PopupWebFrameBehaviour_2B4791B5_4F9A_B7F9_41C5_D8155A700207.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_9DAA4757_EACB_C4EF_41C5_70711CB9D352.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
 PopupWebFrameBehaviour_9EB18D5E_EADC_449E_41E9_D979FA29187E.url = https://grupoeurosa.com/ar/producto/um30?exhibidor=true
 PopupWebFrameBehaviour_BB7F5C17_EAF4_C46E_41ED_4BDB01A2D76F.url = https://grupoeurosa.com/ar/producto/z10?color=Z10N?exhibidor=true
 
 ## Media
 
 ### Imágen
-imlevel_B1B05807_AE11_0152_41BF_3C6AEC3E05E8.url = media/panorama_861B970E_AB1C_0F46_4196_9B42691D3E12_HS_xyew7617_es.webp
+imlevel_312202A4_3F7C_C06F_41C8_FC688B48AE20.url = media/panorama_861B970E_AB1C_0F46_4196_9B42691D3E12_HS_xyew7617_es.webp
 
 ### Título
 panorama_861B970E_AB1C_0F46_4196_9B42691D3E12.label = SCENE 1
@@ -61,4 +61,4 @@ Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_mobile.url = skin/Image_F0B2A72C_FF5C
 ### Descripción
 
 ### Título
-tour.name = 1 COCINA FITECMA PC WEB V7
+tour.name = 1 COCINA FITECMA PC WEB V8
